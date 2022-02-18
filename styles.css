@@ -1,0 +1,86 @@
+h1 {
+    text-align: center;
+    color: goldenrod;
+}
+
+table {
+    width: 100%;
+    margin-top: 25px;
+}
+
+main {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(192, 185, 185);
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 6px;
+}
+
+.vlajky {
+    height: 20px;
+}
+
+.body {
+    text-align: center;
+}
+
+.l {
+    background-color: goldenrod;
+}
+
+.k {
+    background-color: silver;
+}
+
+.j {
+    background-color: #cd7f32;
+}
+
+caption {
+    color: goldenrod;
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.kk {
+    color: goldenrod;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.white {
+    color: white;
+}
+
+body {
+    background-image: url(../pvy-stuchlik/img/oko.jpg)
+}
+
+.font-size {
+    font-size: 35px;
+    color: goldenrod;
+}
+
+.peking2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+
+}
+
+.font {
+
+    color: white;
+}
